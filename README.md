@@ -8,8 +8,8 @@ Data is stored locally in a **SQLite database**, ensuring portability and simpli
 ---
 
 ## Authors
-- **Stoikos Ioannis Panagiotis** – P22164  
-- **Anargyrou Lamprou Aikaterini** – P22009    
+- **Stoikos Ioannis Panagiotis** 
+- **Anargyrou Lamprou Aikaterini**     
 
 ---
 
